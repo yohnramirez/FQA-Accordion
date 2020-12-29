@@ -62,14 +62,16 @@ p{
     display: block;
     margin: 0 auto;
     top: 20px;
-    right: 100px;
+    transform: translateX(-53%);
+    left: 50%;
 }
 .row-image.pattern-mobile{
     z-index: 5;
     display: block;
     margin: 0 auto;
     top: 130px;
-    right: 100px;
+    transform: translateX(-50%);
+    left: 50%;
 }
 
 /* HEADER DESKTOP */
